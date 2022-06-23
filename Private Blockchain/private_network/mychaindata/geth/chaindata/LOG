@@ -1,0 +1,33 @@
+=============== Mar 8, 2022 (IST) ===============
+23:37:02.586979 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:37:02.590969 db@open opening
+23:37:02.592963 version@stat F·[] S·0B[] Sc·[]
+23:37:02.594958 db@janitor F·2 G·0
+23:37:02.594958 db@open done T·3.9894ms
+23:37:02.595957 db@close closing
+23:37:02.595957 db@close done T·0s
+=============== Mar 8, 2022 (IST) ===============
+23:39:04.024365 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:39:04.024945 version@stat F·[] S·0B[] Sc·[]
+23:39:04.024945 db@open opening
+23:39:04.024945 journal@recovery F·1
+23:39:04.028501 journal@recovery recovering @1
+23:39:04.030049 memdb@flush created L0@2 N·10 S·611B "H\x06\x13..\x9ad\xe7,v3":"r\x00\x00..\x9ad\xe7,v5"
+23:39:04.034797 version@stat F·[1] S·611B[611B] Sc·[0.25]
+23:39:04.040516 db@janitor F·3 G·0
+23:39:04.040516 db@open done T·15.5713ms
+=============== Mar 9, 2022 (IST) ===============
+00:17:36.793500 db@close closing
+00:17:36.793500 db@close done T·0s
+=============== Mar 9, 2022 (IST) ===============
+01:13:35.922534 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:13:35.923046 version@stat F·[1] S·611B[611B] Sc·[0.25]
+01:13:35.923046 db@open opening
+01:13:35.923046 journal@recovery F·1
+01:13:35.927116 journal@recovery recovering @3
+01:13:35.937300 memdb@flush created L0@5 N·8134 S·424KiB "0zL..d\x9d\x02,v8142":"\xd6W\xb5..\x9f\xd8\xe5,v8143"
+01:13:35.940990 version@stat F·[2] S·425KiB[425KiB] Sc·[0.50]
+01:13:35.946891 db@janitor F·4 G·0
+01:13:35.946891 db@open done T·23.8446ms
+01:19:03.273528 db@close closing
+01:19:03.273528 db@close done T·0s
