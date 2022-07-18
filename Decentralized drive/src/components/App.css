@@ -1,0 +1,25 @@
+body {
+    background-image: url("nft\ button.jpg");
+    background-color: #cccccc;
+}
+
+.uplaod-btn {
+    background-image: url("w1.png");
+  /*background-color: rgb(243, 2, 183);*/
+  color: rgb(249, 1, 1);
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}   
+h1 {
+    color: rgb(0, 216, 249);
+    background-image: url("w1.png");
+  }
+.share-file {
+    background-image: url("nft\ button.jpg");
+    align-items: center;
+    align-self: center;
+    
+}  
