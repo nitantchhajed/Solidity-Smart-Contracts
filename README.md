@@ -1,1 +1,1 @@
-Contains Smart Contracts in Remix Workspace folder
+Contains Smart Contracts that I have created for various use cases.
