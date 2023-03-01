@@ -48,7 +48,7 @@ npx hardhat coverage --temp build
 ---
 
 Ethereum Network
-#################################### Testnet Network ####################################
+#################################### Testnet Network ################################
 
 <!--
     Metamask Network Parameters
